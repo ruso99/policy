@@ -1,5 +1,5 @@
-title: Texture Theme
-author: GitHub User
+title: 개인정보처리방침
+author: ruso99
 email: richcode99@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -24,7 +24,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    github: artvelop
+    github: ruso99
     rss: rss
  
 
